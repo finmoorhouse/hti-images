@@ -1,0 +1,1 @@
+This is an [LFS](https://git-lfs.com/) repo to store images which serve https://www.hearthisidea.com, and possibly other sites in the future.
