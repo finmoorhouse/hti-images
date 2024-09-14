@@ -5,6 +5,6 @@ It also syncs with a Cloudinary bucket, which serves the images.
 As a note to self; to sync with Cloudinary:
 
 ```bash
-cld sync --push episodes episodes
+cld -C hti sync --push episodes episodes
 ```
 
